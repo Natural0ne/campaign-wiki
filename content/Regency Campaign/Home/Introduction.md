@@ -1,3 +1,6 @@
+---
+banner: pixel-banner-images/ball-banner
+---
 Welcome to this campaign!
 
 Here are some links to get you started:
